@@ -15,3 +15,9 @@ Agora que entendemos que funções são como qualquer outro objeto em Python, po
 ### Açúcar Sintático!
 
 O Python permite que você **use decoradores de maneira mais com símbolo @.**
+
+<hr>
+
+### Introspecção
+
+Introspecção é a capacidade de um objeto saber sobre seus próprios atributos em tempo de execução.
