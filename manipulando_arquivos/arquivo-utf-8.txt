@@ -1,0 +1,1 @@
+Manipulando arquivo em Python. ýýýýý
